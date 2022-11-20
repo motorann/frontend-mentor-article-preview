@@ -91,10 +91,9 @@ p.author-name {
 
 .share-btn {
   cursor: pointer;
-  height: 30px;
-  width: 30px;
   border: none;
-  border-radius: 15px;
+  border-radius: 50%;
+  padding: 6px;
 }
 
 /* Active box with media icon for laptop */
